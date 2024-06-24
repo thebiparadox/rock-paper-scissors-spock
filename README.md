@@ -1,2 +1,1 @@
-# rock-paper-scissors-spock
-A Rock, Paper, Scissors, Spock game that I adapted from freeCodeCamp's JavaScript Curriculum.
+A Rock, Paper, Scissors, Spock game that I adapted from [freeCodeCamp's JavaScript Curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/review-dom-manipulation-by-building-a-rock-paper-scissors-game/step-1).
